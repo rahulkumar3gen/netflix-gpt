@@ -36,8 +36,18 @@
   -usePopularMovies custom hook
   -GPT search page
   -GPT search bar
+  -language
 
   - multi- language feature in our app
+    -gpt open AI Api key
+    -gpt search Api call
+    -fetched gptMoviesSuggestions from TMDB
+    -created gptslice added data
+    -reused movie list component to make movie suggestion container
+    -memoization
+    -added .env file
+    -added .env file to gitignore
+    -made our site responsive
 
 -
 
